@@ -61,4 +61,4 @@ except ValueError:
 start_message = os.environ.get("TG_START_MESG", "Send an image or file to get a link to download it")
 group_chat_message = os.environ.get("TG_G_C_MESG", "Sorry. But, I only work in private.")
 
-tg_bot_token = os.environ.get("TG_BOT_FATHER_TOKEN", "1448722756:AAFfTfWci6gUZ7E6l00Xze4MXik4eXN9SZo")
+tg_bot_token = os.environ.get("TG_BOT_FATHER_TOKEN", "1147316107:AAHDxmojho7rzP4gYSH1yCcGokQzmvSFlKw")
